@@ -26,7 +26,7 @@ end)
 Citizen.CreateThread(function()
  	while true do
  		Citizen.Wait(100)
- 		if ( IsControlPressed(2, 303) ) then  --CHANGE KEYBIND HERE https://docs.fivem.net/docs/game-references/controls/
+ 		if ( IsControlPressed(2, 303) ) then  ---CHANGE KEYBIND HERE https://docs.fivem.net/docs/game-references/controls/
  			TriggerEvent("Ragdoll", source)
  		end
  	end
