@@ -23,6 +23,6 @@ AddEventHandler("Ragdoll", function()
 	end
 end)
 
-RegisterCommand("rag", function(source, args, raw) --CHANGE COMMAND HERE
+RegisterCommand("ragdoll", function(source, args, raw) --CHANGE COMMAND HERE
     TriggerEvent("Ragdoll")
 end, false)
