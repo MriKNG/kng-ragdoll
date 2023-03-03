@@ -1,9 +1,10 @@
 # kng-ragdoll
-Project Description:
+**Project Description:**
 >Ragdoll Script for FiveM
 This ragdoll script can be used with a command, keybind or both. By default it will use the keybind "U". Both the keybind and command can be used in the client files.
 
-Use Keybind:
+
+**Use Keybind:**
 >Under fxmanifest.lua client_scripts make sure to use the following client file:
 
 ![Image1](https://media.discordapp.net/attachments/1047971380056043593/1081308720480391248/Screenshot_5.png)
