@@ -5,16 +5,19 @@ This ragdoll script can be used with a command, keybind or both. By default it w
 
 Use Keybind:
 >Under fxmanifest.lua client_scripts make sure to use the following client file:
+
 ![Image1](https://media.discordapp.net/attachments/1047971380056043593/1081308720480391248/Screenshot_5.png)
 
 
 **Use Command:**
 >Under fxmanifest.lua client_scripts make sure to use the following client file:
+
 ![Image2](https://media.discordapp.net/attachments/1047971380056043593/1081308720480391248/Screenshot_5.png)
 
 
 **Use Keybind and Command:**
 >Under fxmanifest.lua client_scripts make sure to use the following client files:
+
 ![Image3](https://media.discordapp.net/attachments/1047971380056043593/1081308720987910285/Screenshot_7.png)
 
 
