@@ -1,7 +1,7 @@
 # kng-ragdoll
 **Project Description:**
 >Ragdoll Script for FiveM
-This ragdoll script can be used with a command, keybind or both. By default it will use the keybind "U". Both the keybind and command can be used in the client files.
+This ragdoll script can be used with a command, keybind or both. By default it will use the keybind "U". Both the keybind and command can be changed in the client files.
 
 
 **Use Keybind:**
